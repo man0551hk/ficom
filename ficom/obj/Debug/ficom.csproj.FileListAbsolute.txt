@@ -1,0 +1,159 @@
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\bin\Debug\ficom.exe.config
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\bin\Debug\ficom.exe
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\bin\Debug\ficom.pdb
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\bin\Debug\EntityFramework.dll
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\bin\Debug\EntityFramework.xml
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\obj\Debug\ficom.csprojResolveAssemblyReference.cache
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\obj\Debug\ficom.CustomMessageBox.resources
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\obj\Debug\ficom.LoginForm.resources
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\obj\Debug\ficom.MainForm.resources
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\obj\Debug\ficom.Properties.Resources.resources
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\obj\Debug\ficom.DummyScreen.resources
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\obj\Debug\ficom.SettingForm.resources
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\obj\Debug\ficom.SplashScreen.resources
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\obj\Debug\ficom.csproj.GenerateResource.Cache
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\obj\Debug\ficom.exe
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45\ficom\obj\Debug\ficom.pdb
+D:\Project\ficom\ficom\ficom\bin\Debug\ficom.exe.config
+D:\Project\ficom\ficom\ficom\bin\Debug\ficom.exe
+D:\Project\ficom\ficom\ficom\bin\Debug\ficom.pdb
+D:\Project\ficom\ficom\ficom\bin\Debug\EntityFramework.dll
+D:\Project\ficom\ficom\ficom\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\ficom\ficom\ficom\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Project\ficom\ficom\ficom\bin\Debug\System.Data.SqlServerCe.dll
+D:\Project\ficom\ficom\ficom\bin\Debug\EntityFramework.xml
+D:\Project\ficom\ficom\ficom\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\ficom\ficom\ficom\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\Project\ficom\ficom\ficom\obj\Debug\ficom.csprojResolveAssemblyReference.cache
+D:\Project\ficom\ficom\ficom\obj\Debug\ficom.CustomMessageBox.resources
+D:\Project\ficom\ficom\ficom\obj\Debug\ficom.Lang.LangZn.resources
+D:\Project\ficom\ficom\ficom\obj\Debug\ficom.Lang.LangEn.resources
+D:\Project\ficom\ficom\ficom\obj\Debug\ficom.LoginForm.resources
+D:\Project\ficom\ficom\ficom\obj\Debug\ficom.MainForm.resources
+D:\Project\ficom\ficom\ficom\obj\Debug\ficom.Properties.Resources.resources
+D:\Project\ficom\ficom\ficom\obj\Debug\ficom.DummyScreen.resources
+D:\Project\ficom\ficom\ficom\obj\Debug\ficom.SettingForm.resources
+D:\Project\ficom\ficom\ficom\obj\Debug\ficom.SplashScreen.resources
+D:\Project\ficom\ficom\ficom\obj\Debug\ficom.WarmUp.resources
+D:\Project\ficom\ficom\ficom\obj\Debug\ficom.csproj.GenerateResource.Cache
+D:\Project\ficom\ficom\ficom\obj\Debug\ficom.exe
+D:\Project\ficom\ficom\ficom\obj\Debug\ficom.pdb
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\ficom.exe.config
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\ficom.exe
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\ficom.pdb
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\EntityFramework.dll
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\NetOffice.dll
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\OfficeApi.dll
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\VBIDEApi.dll
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\WordApi.dll
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\EntityFramework.xml
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\NetOffice.xml
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\OfficeApi.xml
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\VBIDEApi.xml
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\WordApi.xml
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\Interop.UMCBILib.dll
+C:\Users\Jerry\Desktop\ficom\ficom\bin\Debug\AxInterop.UMCBILib.dll
+C:\Users\Jerry\Desktop\ficom\ficom\obj\Debug\Interop.UMCBILib.dll
+C:\Users\Jerry\Desktop\ficom\ficom\obj\Debug\AxInterop.UMCBILib.dll
+C:\Users\Jerry\Desktop\ficom\ficom\obj\Debug\ficom.csproj.ResolveComReference.cache
+C:\Users\Jerry\Desktop\ficom\ficom\obj\Debug\ficom.CustomMessageBox.resources
+C:\Users\Jerry\Desktop\ficom\ficom\obj\Debug\ficom.Lang.LangZn.resources
+C:\Users\Jerry\Desktop\ficom\ficom\obj\Debug\ficom.Lang.LangEn.resources
+C:\Users\Jerry\Desktop\ficom\ficom\obj\Debug\ficom.LoginForm.resources
+C:\Users\Jerry\Desktop\ficom\ficom\obj\Debug\ficom.MainForm.resources
+C:\Users\Jerry\Desktop\ficom\ficom\obj\Debug\ficom.Properties.Resources.resources
+C:\Users\Jerry\Desktop\ficom\ficom\obj\Debug\ficom.DummyScreen.resources
+C:\Users\Jerry\Desktop\ficom\ficom\obj\Debug\ficom.SettingForm.resources
+C:\Users\Jerry\Desktop\ficom\ficom\obj\Debug\ficom.SplashScreen.resources
+C:\Users\Jerry\Desktop\ficom\ficom\obj\Debug\ficom.TestConnection.resources
+C:\Users\Jerry\Desktop\ficom\ficom\obj\Debug\ficom.csproj.GenerateResource.Cache
+C:\Users\Jerry\Desktop\ficom\ficom\obj\Debug\ficom.exe
+C:\Users\Jerry\Desktop\ficom\ficom\obj\Debug\ficom.pdb
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\ficom.exe.config
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\ficom.exe
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\ficom.pdb
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\EntityFramework.dll
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\NetOffice.dll
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\OfficeApi.dll
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\VBIDEApi.dll
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\WordApi.dll
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\EntityFramework.xml
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\NetOffice.xml
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\OfficeApi.xml
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\VBIDEApi.xml
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\WordApi.xml
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\Interop.UMCBILib.dll
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\bin\Debug\AxInterop.UMCBILib.dll
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\obj\Debug\Interop.UMCBILib.dll
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\obj\Debug\AxInterop.UMCBILib.dll
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\obj\Debug\ficom.csproj.ResolveComReference.cache
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\obj\Debug\ficom.CustomMessageBox.resources
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\obj\Debug\ficom.Lang.LangZn.resources
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\obj\Debug\ficom.Lang.LangEn.resources
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\obj\Debug\ficom.LoginForm.resources
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\obj\Debug\ficom.MainForm.resources
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\obj\Debug\ficom.Properties.Resources.resources
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\obj\Debug\ficom.DummyScreen.resources
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\obj\Debug\ficom.ScriptEditor.resources
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\obj\Debug\ficom.SettingForm.resources
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\obj\Debug\ficom.SplashScreen.resources
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\obj\Debug\ficom.TestConnection.resources
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\obj\Debug\ficom.csproj.GenerateResource.Cache
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\obj\Debug\ficom.exe
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\obj\Debug\ficom.pdb
+C:\Users\Jerry\Google 雲端硬碟\Ficom\Program\ficom_fw45_0101\ficom\ficom\obj\Debug\ficom.csprojResolveAssemblyReference.cache
+C:\Users\Jerry\Desktop\ficom\ficom\obj\Debug\ficom.ScriptEditor.resources
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\ficom.exe.config
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\ficom.exe
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\ficom.pdb
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\EntityFramework.dll
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\EntityFramework.SqlServerCompact.dll
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\NetOffice.dll
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\OfficeApi.dll
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\System.Data.SqlServerCe.dll
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\VBIDEApi.dll
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\WordApi.dll
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\EntityFramework.xml
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\EntityFramework.SqlServerCompact.xml
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\NetOffice.xml
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\OfficeApi.xml
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\VBIDEApi.xml
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\WordApi.xml
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\Interop.UMCBILib.dll
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\AxInterop.UMCBILib.dll
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\Interop.UMCBILib.dll
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\AxInterop.UMCBILib.dll
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\ficom.csproj.ResolveComReference.cache
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\ficom.CustomMessageBox.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\ficom.Lang.LangZn.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\ficom.Lang.LangEn.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\ficom.LoginForm.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\ficom.MainForm.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\ficom.Properties.Resources.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\ficom.DummyScreen.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\ficom.ScriptEditor.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\ficom.SettingForm.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\ficom.SplashScreen.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\ficom.TestConnection.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\ficom.csproj.GenerateResource.Cache
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\ficom.exe
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\ficom.pdb
+C:\Users\Jerry\Desktop\ficom\ficom\obj\Debug\ficom.csprojResolveAssemblyReference.cache
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\ficom.csprojResolveAssemblyReference.cache

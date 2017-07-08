@@ -1,0 +1,115 @@
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\obj\Debug\Interop.UMCBILib.dll
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\obj\Debug\AxInterop.UMCBILib.dll
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\obj\Debug\LCMS.csproj.ResolveComReference.cache
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\obj\Debug\LCMS.CustomMessageBox.resources
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\obj\Debug\LCMS.Lang.LangZn.resources
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\obj\Debug\LCMS.Lang.LangEn.resources
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\obj\Debug\LCMS.LoginForm.resources
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\obj\Debug\LCMS.MainForm.resources
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\obj\Debug\LCMS.OutputWord.resources
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\obj\Debug\LCMS.Properties.Resources.resources
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\obj\Debug\LCMS.DummyScreen.resources
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\obj\Debug\LCMS.ScriptEditor.resources
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\obj\Debug\LCMS.SettingForm.resources
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\obj\Debug\LCMS.SplashScreen.resources
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\obj\Debug\LCMS.TestConnection.resources
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\obj\Debug\LCMS.csproj.GenerateResource.Cache
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\obj\Debug\LCMS.exe
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\obj\Debug\LCMS.pdb
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\LCMS.exe.config
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\LCMS.exe
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\LCMS.pdb
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\EntityFramework.dll
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\NetOffice.dll
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\OfficeApi.dll
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\VBIDEApi.dll
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\WordApi.dll
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\EntityFramework.xml
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\NetOffice.xml
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\OfficeApi.xml
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\VBIDEApi.xml
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\WordApi.xml
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\Interop.UMCBILib.dll
+C:\Users\ORTEC\Desktop\LCMS source code\ficom\ficom\bin\Debug\AxInterop.UMCBILib.dll
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\LCMS.exe.config
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\LCMS.exe
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\LCMS.pdb
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\EntityFramework.dll
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\EntityFramework.SqlServerCompact.dll
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\NetOffice.dll
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\OfficeApi.dll
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\System.Data.SqlServerCe.dll
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\VBIDEApi.dll
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\WordApi.dll
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\EntityFramework.xml
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\EntityFramework.SqlServerCompact.xml
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\NetOffice.xml
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\OfficeApi.xml
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\VBIDEApi.xml
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\WordApi.xml
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\Interop.UMCBILib.dll
+E:\Project\ficom_fw45\ficom\ficom\bin\Debug\AxInterop.UMCBILib.dll
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\Interop.UMCBILib.dll
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\AxInterop.UMCBILib.dll
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\LCMS.csproj.ResolveComReference.cache
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\LCMS.CustomMessageBox.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\LCMS.Lang.LangZn.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\LCMS.Lang.LangEn.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\LCMS.LoginForm.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\LCMS.MainForm.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\LCMS.OutputWord.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\LCMS.Properties.Resources.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\LCMS.DummyScreen.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\LCMS.ScriptEditor.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\LCMS.SettingForm.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\LCMS.SplashScreen.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\LCMS.TestConnection.resources
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\LCMS.csproj.GenerateResource.Cache
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\LCMS.exe
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\LCMS.pdb
+E:\Project\ficom_fw45\ficom\ficom\obj\Debug\LCMS.csprojResolveAssemblyReference.cache
+C:\ficom_fw45\ficom\ficom\bin\Debug\LCMS.exe.config
+C:\ficom_fw45\ficom\ficom\bin\Debug\LCMS.exe
+C:\ficom_fw45\ficom\ficom\bin\Debug\LCMS.pdb
+C:\ficom_fw45\ficom\ficom\bin\Debug\EntityFramework.dll
+C:\ficom_fw45\ficom\ficom\bin\Debug\EntityFramework.SqlServer.dll
+C:\ficom_fw45\ficom\ficom\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\ficom_fw45\ficom\ficom\bin\Debug\NetOffice.dll
+C:\ficom_fw45\ficom\ficom\bin\Debug\OfficeApi.dll
+C:\ficom_fw45\ficom\ficom\bin\Debug\System.Data.SqlServerCe.dll
+C:\ficom_fw45\ficom\ficom\bin\Debug\VBIDEApi.dll
+C:\ficom_fw45\ficom\ficom\bin\Debug\WordApi.dll
+C:\ficom_fw45\ficom\ficom\bin\Debug\EntityFramework.xml
+C:\ficom_fw45\ficom\ficom\bin\Debug\EntityFramework.SqlServer.xml
+C:\ficom_fw45\ficom\ficom\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\ficom_fw45\ficom\ficom\bin\Debug\NetOffice.xml
+C:\ficom_fw45\ficom\ficom\bin\Debug\OfficeApi.xml
+C:\ficom_fw45\ficom\ficom\bin\Debug\VBIDEApi.xml
+C:\ficom_fw45\ficom\ficom\bin\Debug\WordApi.xml
+C:\ficom_fw45\ficom\ficom\bin\Debug\Interop.UMCBILib.dll
+C:\ficom_fw45\ficom\ficom\bin\Debug\AxInterop.UMCBILib.dll
+C:\ficom_fw45\ficom\ficom\obj\Debug\Interop.UMCBILib.dll
+C:\ficom_fw45\ficom\ficom\obj\Debug\AxInterop.UMCBILib.dll
+C:\ficom_fw45\ficom\ficom\obj\Debug\LCMS.csproj.ResolveComReference.cache
+C:\ficom_fw45\ficom\ficom\obj\Debug\LCMS.CustomMessageBox.resources
+C:\ficom_fw45\ficom\ficom\obj\Debug\LCMS.Lang.LangZn.resources
+C:\ficom_fw45\ficom\ficom\obj\Debug\LCMS.Lang.LangEn.resources
+C:\ficom_fw45\ficom\ficom\obj\Debug\LCMS.LoginForm.resources
+C:\ficom_fw45\ficom\ficom\obj\Debug\LCMS.MainForm.resources
+C:\ficom_fw45\ficom\ficom\obj\Debug\LCMS.OutputWord.resources
+C:\ficom_fw45\ficom\ficom\obj\Debug\LCMS.Properties.Resources.resources
+C:\ficom_fw45\ficom\ficom\obj\Debug\LCMS.DummyScreen.resources
+C:\ficom_fw45\ficom\ficom\obj\Debug\LCMS.ScriptEditor.resources
+C:\ficom_fw45\ficom\ficom\obj\Debug\LCMS.SettingForm.resources
+C:\ficom_fw45\ficom\ficom\obj\Debug\LCMS.SplashScreen.resources
+C:\ficom_fw45\ficom\ficom\obj\Debug\LCMS.TestConnection.resources
+C:\ficom_fw45\ficom\ficom\obj\Debug\LCMS.csproj.GenerateResource.Cache
+C:\ficom_fw45\ficom\ficom\obj\Debug\LCMS.exe
+C:\ficom_fw45\ficom\ficom\obj\Debug\LCMS.pdb

@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="loginAsTxt" xml:space="preserve">
+    <value>Login As:</value>
+  </data>
+  <data name="loginBtnTxt" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="loginOutTxt" xml:space="preserve">
+    <value>Logout</value>
+  </data>
+  <data name="noBtnTxt" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="settingBtnTxt" xml:space="preserve">
+    <value>Setting</value>
+  </data>
+  <data name="statusTxt" xml:space="preserve">
+    <value>Status:</value>
+  </data>
+  <data name="WarmUpTxt" xml:space="preserve">
+    <value>Do you want to start warm up process?</value>
+  </data>
+  <data name="yesBtnTxt" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="accountType" xml:space="preserve">
+    <value>Please select account type</value>
+  </data>
+  <data name="alarmLevel" xml:space="preserve">
+    <value>Please enter alarm level</value>
+  </data>
+  <data name="codeDescription" xml:space="preserve">
+    <value>Please Enter either code or description</value>
+  </data>
+  <data name="complete" xml:space="preserve">
+    <value>Completed</value>
+  </data>
+  <data name="halfLife" xml:space="preserve">
+    <value>Please enter half-life value and select unit</value>
+  </data>
+  <data name="noticeMsg" xml:space="preserve">
+    <value>Notice Message</value>
+  </data>
+  <data name="parameterType" xml:space="preserve">
+    <value>Please Select Parameter Type</value>
+  </data>
+  <data name="password" xml:space="preserve">
+    <value>Please enter password and password at least 8 digit</value>
+  </data>
+  <data name="runWarmUp" xml:space="preserve">
+    <value>Running Warm up...</value>
+  </data>
+  <data name="scriptFile" xml:space="preserve">
+    <value>Please select script file</value>
+  </data>
+  <data name="confirmBkTxt" xml:space="preserve">
+    <value>Confirm to run background?</value>
+  </data>
+  <data name="connectDetector1" xml:space="preserve">
+    <value>Connecting to Detector 1...</value>
+  </data>
+  <data name="countRate" xml:space="preserve">
+    <value>Count Rate:</value>
+  </data>
+  <data name="currBgStatusPanel" xml:space="preserve">
+    <value>Current Background Status</value>
+  </data>
+  <data name="failConnectDetector1" xml:space="preserve">
+    <value>Fail to connect to Detector 1</value>
+  </data>
+  <data name="findPreviousJob" xml:space="preserve">
+    <value>Finding previous job...</value>
+  </data>
+  <data name="newBkStatus" xml:space="preserve">
+    <value>New Run Background Status</value>
+  </data>
+  <data name="preCountLabel" xml:space="preserve">
+    <value>Counting Time:</value>
+  </data>
+  <data name="preDateLabel" xml:space="preserve">
+    <value>Background Acquired:</value>
+  </data>
+  <data name="preLocationLabel" xml:space="preserve">
+    <value>Background Location:</value>
+  </data>
+  <data name="preRateLabel" xml:space="preserve">
+    <value>Total Count Rate:</value>
+  </data>
+  <data name="runBk" xml:space="preserve">
+    <value>Run Background</value>
+  </data>
+  <data name="updBk" xml:space="preserve">
+    <value>Update Background Status</value>
+  </data>
+  <data name="logoutText" xml:space="preserve">
+    <value>Logout</value>
+  </data>
+  <data name="exeNotFound" xml:space="preserve">
+    <value>Can't find mca32.exe</value>
+  </data>
+  <data name="selectLocation" xml:space="preserve">
+    <value>Please select operation location</value>
+  </data>
+  <data name="connectDetector2" xml:space="preserve">
+    <value>Connecting to Detector 2...</value>
+  </data>
+  <data name="failConnectDetector2" xml:space="preserve">
+    <value>Fail to connect to Detector 2</value>
+  </data>
+  <data name="getBKPrevDataBtn" xml:space="preserve">
+    <value>Get Previous Bgd Data?</value>
+  </data>
+  <data name="tryAgain" xml:space="preserve">
+    <value>Tried 3 times, try again?</value>
+  </data>
+  <data name="engChi" xml:space="preserve">
+    <value>Please enter Eng or Chinese Name</value>
+  </data>
+  <data name="confirmCalibrationTxt" xml:space="preserve">
+    <value>Confirm to run Calibration?</value>
+  </data>
+  <data name="successDetector1" xml:space="preserve">
+    <value>Connect Detector 1 Successful</value>
+  </data>
+  <data name="successDetector2" xml:space="preserve">
+    <value>Connect Detector 2 Successful</value>
+  </data>
+  <data name="save" xml:space="preserve">
+    <value>Saved</value>
+  </data>
+  <data name="codeDuplicateError" xml:space="preserve">
+    <value>Code cannot duplicate</value>
+  </data>
+  <data name="originDuplicate" xml:space="preserve">
+    <value>Origin cannot duplicate</value>
+  </data>
+  <data name="profileError" xml:space="preserve">
+    <value>Cannot select empty profile</value>
+  </data>
+  <data name="profileFileError" xml:space="preserve">
+    <value>Can't find profile file, please delete and run again</value>
+  </data>
+  <data name="select" xml:space="preserve">
+    <value>Selected Profile Successful</value>
+  </data>
+  <data name="profileNotFound" xml:space="preserve">
+    <value>Profile file can't find</value>
+  </data>
+  <data name="confirmExit" xml:space="preserve">
+    <value>Confirm Exit?</value>
+  </data>
+  <data name="bop" xml:space="preserve">
+    <value>Please enter branch of peak ration</value>
+  </data>
+  <data name="run" xml:space="preserve">
+    <value>Run</value>
+  </data>
+  <data name="searchBtn" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="confirmMeasureTxt" xml:space="preserve">
+    <value>Confirm to Run Measurement?</value>
+  </data>
+  <data name="mpe" xml:space="preserve">
+    <value>Please enter Major Peak Energy</value>
+  </data>
+  <data name="openBtnTxt" xml:space="preserve">
+    <value>Open Report</value>
+  </data>
+  <data name="printBtnTxt" xml:space="preserve">
+    <value>Print Report</value>
+  </data>
+  <data name="download" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="username" xml:space="preserve">
+    <value>Please Enter User Name</value>
+  </data>
+  <data name="eng" xml:space="preserve">
+    <value>Please Enter English Name</value>
+  </data>
+</root>
