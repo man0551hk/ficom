@@ -40,6 +40,8 @@ namespace LCMS
         public static ScriptSet topScriptSet = new ScriptSet();
         public static ScriptSet bottomScriptSet = new ScriptSet();
 
+
+
         public static List<Isotope> isotopeList1 = new List<Isotope>();
         public static List<Isotope> isotopeList2 = new List<Isotope>();
         public static List<Isotope> isotopeList3 = new List<Isotope>();

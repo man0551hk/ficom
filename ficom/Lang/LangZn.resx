@@ -297,4 +297,10 @@
   <data name="eng" xml:space="preserve">
     <value>請輸入英文名</value>
   </data>
+  <data name="checkIO" xml:space="preserve">
+    <value>搜尋 inpout32.dll</value>
+  </data>
+  <data name="loadBasicXML" xml:space="preserve">
+    <value>讀取 Basic.xml</value>
+  </data>
 </root>

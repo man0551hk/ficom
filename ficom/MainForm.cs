@@ -42,7 +42,7 @@ namespace LCMS
             backgroundPanel.Visible = false;
             runBkOpBtn.Enabled = false;
             Mea_RunBtn.Enabled = false;
-            versionLabel.Text = "beta ver. 3.7.1";
+            versionLabel.Text = "beta ver. 4.0";
             this.Activated += MainForm_Activated;
             this.Deactivate += MainForm_Deactivate;
 
@@ -761,6 +761,29 @@ namespace LCMS
             Thread runThread = new Thread(new ThreadStart(exm.RunScript));           
             runThread.Start();
 
+            int countSleep = 0;
+            while (true)
+            {
+                bk_pbr.Invoke(new MethodInvoker(delegate
+                {
+                    UpdateStatusLabel("Checking Active", 0, 255, 0);
+                }));
+                Thread.Sleep(1000);
+                if (GlobalFunc.checkActive(thisDetector))
+                {
+                    break;
+                }
+                countSleep++;
+                if (countSleep == 5)
+                {
+                    break;
+                }
+            }
+            bk_pbr.Invoke(new MethodInvoker(delegate
+            {
+                UpdateStatusLabel("Counting...", 0, 255, 0);
+            }));
+
             for (int i = 0; i < Convert.ToInt32(BKManager.supposeSecond) + Convert.ToInt32(GlobalFunc.bufferTime); i++)
             {
                 bkWorker.ReportProgress(i, i);
@@ -787,11 +810,15 @@ namespace LCMS
                 while (BKManager.bkList.Count == 0)
                 {
                     int countCheck = 0;
-                    while (GlobalFunc.checkActive(selDetectorLabel.Text))
+                    while (!GlobalFunc.checkActive(selDetectorLabel.Text))
                     {
                         Thread.Sleep(1000);
                         countCheck++;
                         if (countCheck == 20)
+                        {
+                            break;
+                        }
+                        if (GlobalFunc.checkActive(selDetectorLabel.Text))
                         {
                             break;
                         }
@@ -827,6 +854,25 @@ namespace LCMS
                     {
                         bkWorker.ReportProgress(i, i);
                         Thread.Sleep(1000);
+                    }
+
+                    int countSleep = 0;
+                    while (true)
+                    {
+                        bk_pbr.Invoke(new MethodInvoker(delegate
+                        {
+                            UpdateStatusLabel("Checking Active", 255, 128, 0);
+                        }));
+                        Thread.Sleep(1000);
+                        if (GlobalFunc.checkActive(thisDetector))
+                        {
+                            break;
+                        }
+                        countSleep++;
+                        if (countSleep == 5)
+                        {
+                            break;
+                        }
                     }
 
                     if (runThread.IsAlive)
@@ -1359,9 +1405,12 @@ namespace LCMS
             BKManager.SetWarmUpTime();
             BKManager.SetTemp(0, thisDetector, GlobalFunc.warmupBeginScript, "", "");
             GlobalFunc.logManager.WriteLog("Run Warm up operation");
+           
             ExecuteManager exm = new ExecuteManager();
             exm.scriptFilePath = BKManager.tempRunScript;
-            Thread runThread = new Thread(new ThreadStart(exm.RunScript));
+
+            //Thread runThread = new Thread(new ThreadStart(exm.RunScript));
+            Thread runThread = new Thread(new ThreadStart(exm.ReadJobFileSend));
             runThread.Start();
 
             for (int i = 0; i < GlobalFunc.warmupTime * 60 + GlobalFunc.bufferTime; i++)
@@ -1374,11 +1423,15 @@ namespace LCMS
                 runThread.Abort();
             }
             int countCheck = 0;
-            while (GlobalFunc.checkActive(thisDetector))
+            while (!GlobalFunc.checkActive(thisDetector))
             {
                 Thread.Sleep(1000);
                 countCheck++;
                 if (countCheck == 20)
+                {
+                    break;
+                }
+                if (GlobalFunc.checkActive(thisDetector))
                 {
                     break;
                 }
@@ -1397,6 +1450,25 @@ namespace LCMS
                 Thread.Sleep(1000);
             }
 
+            int countSleep = 0;
+            while (true)
+            {
+                bk_pbr.Invoke(new MethodInvoker(delegate
+                {
+                    UpdateStatusLabel("Checking Active", 255, 128, 0);
+                }));
+                Thread.Sleep(1000);
+                if (GlobalFunc.checkActive(thisDetector))
+                {
+                    break;
+                }
+                countSleep++;
+                if (countSleep == 5)
+                {
+                    break;
+                }
+            }
+
             if (endThread.IsAlive)
             {
                 endThread.Abort();
@@ -1404,6 +1476,16 @@ namespace LCMS
 
             BKManager.SetMeasureTime();
             GlobalFunc.logManager.WriteLog("End Warm up operation");
+
+            bk_pbr.Invoke(new MethodInvoker(delegate
+            {
+                bgOpTimer.Stop();
+                clockLabel.Text = "";
+                bk_pbr.Value = 0;
+                this.Enabled = true;
+                UpdateStatusLabel("Standby", 255, 255, 0);
+                string buttonID = CustomMessageBox.Show(GlobalFunc.rm.GetString("complete"), GlobalFunc.rm.GetString("noticeMsg"), GlobalFunc.rm.GetString("yesBtnTxt"), "", false, 0);
+            }));
         }
 
         protected void WarmUpWork_ProgressChanged(object sender, ProgressChangedEventArgs e)
@@ -2238,6 +2320,20 @@ namespace LCMS
                 Mea_RunBtn.Enabled = true;
             }));
 
+            int countCheck = 0;
+            while (!GlobalFunc.checkActive(thisDetector))
+            {
+                Thread.Sleep(1000);
+                countCheck++;
+                if (countCheck == 20)
+                {
+                    break;
+                }
+                if (GlobalFunc.checkActive(thisDetector))
+                {
+                    break;
+                }
+            }
             
             finalResult = new List<double>();
             detected = new List<int>();
@@ -2266,6 +2362,25 @@ namespace LCMS
             if (runThread.IsAlive)
             {
                 runThread.Abort();
+            }
+
+            int countSleep = 0;
+            while (true)
+            {
+                bk_pbr.Invoke(new MethodInvoker(delegate
+                {
+                    UpdateStatusLabel("Checking Active", 255, 128, 0);
+                }));
+                Thread.Sleep(1000);
+                if (GlobalFunc.checkActive(thisDetector))
+                {
+                    break;
+                }
+                countSleep++;
+                if (countSleep == 5)
+                {
+                    break;
+                }
             }
             
             decimal liveTime = 0;
@@ -2815,11 +2930,15 @@ namespace LCMS
             while (BKManager.measureList.Count == 0)
             {
                 int countCheck = 0;
-                while (GlobalFunc.checkActive(selDetectorLabel.Text))
+                while (!GlobalFunc.checkActive(selDetectorLabel.Text))
                 {
                     Thread.Sleep(1000);
                     countCheck++;
                     if (countCheck == 20)
+                    {
+                        break;
+                    }
+                    if (GlobalFunc.checkActive(selDetectorLabel.Text))
                     {
                         break;
                     }
@@ -2853,16 +2972,26 @@ namespace LCMS
                 {
                     runThread.Abort();
                 }
-                countCheck = 0;
-                while (GlobalFunc.checkActive(selDetectorLabel.Text))
+
+                int countSleep = 0;
+                while (true)
                 {
-                    Thread.Sleep(1000);                  
-                    countCheck++;
-                    if (countCheck == 20)
+                    bk_pbr.Invoke(new MethodInvoker(delegate
+                    {
+                        UpdateStatusLabel("Checking Active", 0, 255, 0);
+                    }));
+                    Thread.Sleep(1000);
+                    if (GlobalFunc.checkActive(selDetectorLabel.Text))
+                    {
+                        break;
+                    }
+                    countSleep++;
+                    if (countSleep == 5)
                     {
                         break;
                     }
                 }
+
                 if (selDetectorLabel.Text.Contains("Top"))
                 {
                     if (File.Exists(GlobalFunc.topScriptSet.MeasureData))
@@ -2942,6 +3071,7 @@ namespace LCMS
                         break;
                     }
                 }
+                countSleep = 0;
             }
             GlobalFunc.logManager.WriteLog("End Measurement operation data");
         }

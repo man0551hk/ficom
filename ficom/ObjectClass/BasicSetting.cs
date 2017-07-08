@@ -16,6 +16,8 @@ namespace LCMS
         private string administrator2 = "";
         private string presetDetector = "";
         private string installedIO = "";
+        private string detectorName = "";
+        private string commandPath = "";
         public string Lang
         {
             set { lang = value; }
@@ -61,8 +63,20 @@ namespace LCMS
             get { return installedIO; }
         }
 
+        public string DetectorName
+        {
+            set { detectorName = value; }
+            get { return detectorName; }
+        }
+
+        public string CommandPath
+        {
+            set { commandPath = value; }
+            get { return commandPath; }
+        }
+
         public BasicSetting(){}
-        public BasicSetting(string lang, string exePath, string ioAddress, string getTemp, string administrator1, string administrator2, string presetDetector, string installedIO)
+        public BasicSetting(string lang, string exePath, string ioAddress, string getTemp, string administrator1, string administrator2, string presetDetector, string installedIO, string detectorName, string commandPath)
         {
             this.lang = lang;
             this.exePath = exePath;
@@ -72,6 +86,8 @@ namespace LCMS
             this.administrator2 = administrator2;
             this.presetDetector = presetDetector;
             this.installedIO = installedIO;
+            this.commandPath = commandPath;
+            this.detectorName = detectorName;
         }
     }
 }

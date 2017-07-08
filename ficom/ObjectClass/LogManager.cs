@@ -42,7 +42,6 @@ namespace LCMS
             {
                 StreamWriter temp = File.CreateText(Directory.GetCurrentDirectory() + @"\userLog\" + date + ".log");
                 temp.Close();
-                //File.Create(Directory.GetCurrentDirectory() + @"\Log\" + date + ".log");
             }
             userLogPath = Directory.GetCurrentDirectory() + @"\userLog\" + date + ".log";
         }

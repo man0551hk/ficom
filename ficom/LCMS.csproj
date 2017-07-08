@@ -50,7 +50,7 @@
     <UseVSHostingProcess>false</UseVSHostingProcess>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>lcms.ico</ApplicationIcon>
+    <ApplicationIcon>Images\lcms.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
     <DebugSymbols>true</DebugSymbols>
@@ -122,24 +122,24 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BasicSetting.cs" />
-    <Compile Include="BKManager.cs" />
-    <Compile Include="Cal.cs" />
-    <Compile Include="CalIsotope.cs" />
-    <Compile Include="CreateWord.cs" />
+    <Compile Include="ObjectClass\BasicSetting.cs" />
+    <Compile Include="ObjectClass\BKManager.cs" />
+    <Compile Include="ObjectClass\Cal.cs" />
+    <Compile Include="ObjectClass\CalIsotope.cs" />
+    <Compile Include="ObjectClass\CreateWord.cs" />
     <Compile Include="CustomMessageBox.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="CustomMessageBox.Designer.cs">
       <DependentUpon>CustomMessageBox.cs</DependentUpon>
     </Compile>
-    <Compile Include="Destination.cs" />
-    <Compile Include="DisplayText.cs" />
-    <Compile Include="ExecuteManager.cs" />
-    <Compile Include="FarmCode.cs" />
-    <Compile Include="GlobalFunc.cs" />
-    <Compile Include="IsoSeq.cs" />
-    <Compile Include="Isotope.cs" />
+    <Compile Include="ObjectClass\Destination.cs" />
+    <Compile Include="ObjectClass\DisplayText.cs" />
+    <Compile Include="ObjectClass\ExecuteManager.cs" />
+    <Compile Include="ObjectClass\FarmCode.cs" />
+    <Compile Include="ObjectClass\GlobalFunc.cs" />
+    <Compile Include="ObjectClass\IsoSeq.cs" />
+    <Compile Include="ObjectClass\Isotope.cs" />
     <Compile Include="Lang\LangZn.Designer.cs">
       <DependentUpon>LangZn.resx</DependentUpon>
       <AutoGen>True</AutoGen>
@@ -156,23 +156,23 @@
     <Compile Include="LoginForm.Designer.cs">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="LogManager.cs" />
+    <Compile Include="ObjectClass\LogManager.cs" />
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Location.cs" />
+    <Compile Include="ObjectClass\Location.cs" />
     <Compile Include="OutputWord.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="OutputWord.Designer.cs">
       <DependentUpon>OutputWord.cs</DependentUpon>
     </Compile>
-    <Compile Include="PlaceOfOrigin.cs" />
-    <Compile Include="PortAccess.cs" />
-    <Compile Include="Profile.cs" />
+    <Compile Include="ObjectClass\PlaceOfOrigin.cs" />
+    <Compile Include="ObjectClass\PortAccess.cs" />
+    <Compile Include="ObjectClass\Profile.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="DummyScreen.cs">
@@ -181,21 +181,21 @@
     <Compile Include="DummyScreen.Designer.cs">
       <DependentUpon>DummyScreen.cs</DependentUpon>
     </Compile>
-    <Compile Include="Roi.cs" />
+    <Compile Include="ObjectClass\Roi.cs" />
     <Compile Include="ScriptEditor.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="ScriptEditor.Designer.cs">
       <DependentUpon>ScriptEditor.cs</DependentUpon>
     </Compile>
-    <Compile Include="ScriptSet.cs" />
+    <Compile Include="ObjectClass\ScriptSet.cs" />
     <Compile Include="SettingForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="SettingForm.Designer.cs">
       <DependentUpon>SettingForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Species.cs" />
+    <Compile Include="ObjectClass\Species.cs" />
     <Compile Include="SplashScreen.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -208,7 +208,7 @@
     <Compile Include="TestConnection.Designer.cs">
       <DependentUpon>TestConnection.cs</DependentUpon>
     </Compile>
-    <Compile Include="UserPassword.cs" />
+    <Compile Include="ObjectClass\UserPassword.cs" />
     <EmbeddedResource Include="CustomMessageBox.resx">
       <DependentUpon>CustomMessageBox.cs</DependentUpon>
       <SubType>Designer</SubType>
@@ -270,10 +270,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="1266124536476.jpg" />
-    <Content Include="icon.ico" />
+    <Content Include="Images\1266124536476.jpg" />
+    <Content Include="Images\icon.ico" />
     <Content Include="inpout32.dll" />
-    <Content Include="lcms.ico" />
+    <Content Include="Images\lcms.ico" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5">

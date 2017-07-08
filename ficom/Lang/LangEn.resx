@@ -297,4 +297,7 @@
   <data name="eng" xml:space="preserve">
     <value>Please Enter English Name</value>
   </data>
+  <data name="checkIO" xml:space="preserve">
+    <value>Checking inpout32.dll</value>
+  </data>
 </root>

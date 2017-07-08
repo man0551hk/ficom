@@ -2343,11 +2343,12 @@ namespace LCMS
                         updateThread.Abort();
                     }
                     countCheck = 0;
-                    while (GlobalFunc.checkActive(toggleDetector))
+                    while (!GlobalFunc.checkActive(toggleDetector))
                     {
                         Thread.Sleep(3000);
                         countCheck++;
                         if (countCheck == 20)
+
                         {
                             break;
                         }
@@ -2399,7 +2400,7 @@ namespace LCMS
                     #region set cps list
                     //check active
                     countCheck = 0;
-                    while (GlobalFunc.checkActive(toggleDetector))
+                    while (!GlobalFunc.checkActive(toggleDetector))
                     {
                         Thread.Sleep(1000);
                         countCheck++;
@@ -2522,7 +2523,7 @@ namespace LCMS
                     {
                         //check active
                         countCheck = 0;
-                        while (GlobalFunc.checkActive(toggleDetector))
+                        while (!GlobalFunc.checkActive(toggleDetector))
                         {
                             Thread.Sleep(1000);
                             countCheck++;
@@ -4806,6 +4807,8 @@ namespace LCMS
                                                         , [mlr] int NULL
                                                         , [detector] nvarchar(25) NULL
                                                         , [fulldate] datetime NULL
+                                                        , [satis] int
+                                                        , [showTemp] int
                                                         );
                                                          ", con);
             createCmd.ExecuteNonQuery();
